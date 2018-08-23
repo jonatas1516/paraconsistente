@@ -7,6 +7,7 @@ import org.springframework.context.annotation.Import;
 import br.com.paraconsistente.configuration.JpaConfiguration;
 
 
+
 /**
  * The Class SpringBootMainApplication.
  * Inicial para subir a aplicacao back end
